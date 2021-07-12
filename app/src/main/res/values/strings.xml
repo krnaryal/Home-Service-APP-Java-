@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">SAJILO</string>
+    <string name="title_activity_home_page">HomePageActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="map_key" translatable="false"> AIzaSyAAIC6Lt8kLXocMoVnYEPzSY_kfmAE-STU</string>
+    <string name="title_activity_navigattion">NavigattionActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Services</string>
+    <string name="menu_slideshow">History</string>
+    <string name="menu_tools">Payment</string>
+    <string name="menu_share">Mail Us</string>
+    <string name="menu_send">Feedback</string>
+    <string name="title_activity_navigation">Home</string>
+    <string name="title_activity_booking1">Booking1</string>
+    <string-array name="Service">
+        <item>Bike Servicing</item>
+        <item> Plumbing</item>
+        <item> Electricity</item>
+        <item> Bike Wash</item>
+        <item> AC Repairing</item>
+        <item>TV Repairing</item>
+        <item> Laptop Repairing</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sisirkhanal20_gmail_com_aryal_kiran100_gmail_com">sisirkhanal20@gmail.com , aryal.kiran100@gmail.com</string>
+    <string name="feedback">FeedBack</string>
+    <string name="send_feedback">Send FeedBack</string>
+</resources>
